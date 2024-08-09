@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+const chromium = require('chrome-aws-lambda');
 const fs = require('fs');
 const path = require('path');
 
@@ -8,7 +8,12 @@ async function delay(time) {
 
 async function extractUrls() {
     const startTime = Date.now();
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await chromium.puppeteer.launch({
+        args: chromium.args,
+        defaultViewport: chromium.defaultViewport,
+        executablePath: await chromium.executablePath,
+        headless: chromium.headless,
+    });
     const page = await browser.newPage();
 
     // Set the viewport to a desktop resolution
@@ -93,10 +98,15 @@ async function extractMatchData() {
         const startTime = Date.now();
         const urls = JSON.parse(fs.readFileSync('extracted_hrefs.json', 'utf8'));
         // Filter URLs where match time is more than 70 minutes
-        const filteredUrls = urls.filter(item => parseTimeToMinutes(item.matchTime) > 70);
+        const filteredUrls = urls.filter(item => parseTimeToMinutes(item.matchTime) > 30);
         console.log(`Filtered to ${filteredUrls.length} URLs with match time > 70 minutes`);
 
-        const browser = await puppeteer.launch({ headless: true });
+        const browser = await chromium.puppeteer.launch({
+            args: chromium.args,
+            defaultViewport: chromium.defaultViewport,
+            executablePath: await chromium.executablePath,
+            headless: chromium.headless,
+        });
         const results = [];
 
         for (const item of filteredUrls) {
