@@ -1,0 +1,442 @@
+[
+  {
+    "url": "https://www.sofascore.com/football/match/famalicao-benfica/gkbsGPu#id:12512900",
+    "matchTime": "71'",
+    "data": {
+      "Match time": "71:34"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/famalicao-benfica/gkbsGPu#id:12512900",
+    "matchTime": "71'",
+    "data": {
+      "Match time": "71:45"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/famalicao-benfica/gkbsGPu#id:12512900",
+    "matchTime": "71'",
+    "data": {
+      "Match time": "71:54"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/audax-italiano-union-espanola/dnbsmnb#id:12129158",
+    "matchTime": "90+'",
+    "data": {}
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/audax-italiano-union-espanola/dnbsmnb#id:12129158",
+    "matchTime": "90+'",
+    "data": {}
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/audax-italiano-union-espanola/dnbsmnb#id:12129158",
+    "matchTime": "90+'",
+    "data": {
+      "Big chances": {
+        "team1": "1",
+        "team2": "1"
+      },
+      "Total shots": {
+        "team1": "16",
+        "team2": "6"
+      },
+      "Goalkeeper saves": {
+        "team1": "1",
+        "team2": "5"
+      },
+      "Corner kicks": {
+        "team1": "9",
+        "team2": "3"
+      },
+      "Fouls": {
+        "team1": "9",
+        "team2": "14"
+      },
+      "Passes": {
+        "team1": "329",
+        "team2": "326"
+      },
+      "Tackles": {
+        "team1": "28",
+        "team2": "13"
+      },
+      "Free kicks": {
+        "team1": "13",
+        "team2": "9"
+      },
+      "Yellow cards": {
+        "team1": "6",
+        "team2": "5"
+      },
+      "Red cards": {
+        "team1": "1",
+        "team2": "1"
+      },
+      "Shots on target": {
+        "team1": "5",
+        "team2": "3"
+      },
+      "Hit woodwork": {
+        "team1": "0",
+        "team2": "0"
+      },
+      "Shots off target": {
+        "team1": "8",
+        "team2": "2"
+      },
+      "Blocked shots": {
+        "team1": "3",
+        "team2": "1"
+      },
+      "Shots inside box": {
+        "team1": "9",
+        "team2": "3"
+      },
+      "Shots outside box": {
+        "team1": "7",
+        "team2": "3"
+      },
+      "Big chances scored": {
+        "team1": "1",
+        "team2": "0"
+      },
+      "Big chances missed": {
+        "team1": "0",
+        "team2": "1"
+      },
+      "Touches in penalty area": {
+        "team1": "33",
+        "team2": "9"
+      },
+      "Fouled in final third": {
+        "team1": "3",
+        "team2": "0"
+      },
+      "Offsides": {
+        "team1": "2",
+        "team2": "0"
+      },
+      "Accurate passes": {
+        "team1": "252",
+        "team2": "243"
+      },
+      "Throw-ins": {
+        "team1": "20",
+        "team2": "20"
+      },
+      "Final third phase": {
+        "team1": "98/145 (68%)",
+        "team2": "54/95 (57%)"
+      },
+      "Final third entries": {
+        "team1": "66",
+        "team2": "59"
+      },
+      "Dispossessed": {
+        "team1": "6",
+        "team2": "15"
+      },
+      "Total tackles": {
+        "team1": "28",
+        "team2": "13"
+      },
+      "Interceptions": {
+        "team1": "10",
+        "team2": "7"
+      },
+      "Recoveries": {
+        "team1": "43",
+        "team2": "44"
+      },
+      "Clearances": {
+        "team1": "9",
+        "team2": "31"
+      },
+      "High claims": {
+        "team1": "1",
+        "team2": "1"
+      },
+      "Goal kicks": {
+        "team1": "3",
+        "team2": "10"
+      }
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/moreirense-sc-farense/Yjbsokb#id:12512896",
+    "matchTime": "71'",
+    "data": {
+      "Match time": "71:02"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/moreirense-sc-farense/Yjbsokb#id:12512896",
+    "matchTime": "71'",
+    "data": {
+      "Match time": "71:14"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/moreirense-sc-farense/Yjbsokb#id:12512896",
+    "matchTime": "71'",
+    "data": {
+      "Match time": "71:24"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/akhmat-grozny-fc-spartak-moscow/yWsGcc#id:12452989",
+    "matchTime": "77'",
+    "data": {
+      "Match time": "76:37",
+      "Total shots": {
+        "team1": "14",
+        "team2": "2"
+      },
+      "Goalkeeper saves": {
+        "team1": "1",
+        "team2": "4"
+      },
+      "Corner kicks": {
+        "team1": "6",
+        "team2": "3"
+      },
+      "Fouls": {
+        "team1": "7",
+        "team2": "13"
+      },
+      "Passes": {
+        "team1": "581",
+        "team2": "171"
+      },
+      "Tackles": {
+        "team1": "11",
+        "team2": "15"
+      },
+      "Free kicks": {
+        "team1": "13",
+        "team2": "7"
+      },
+      "Yellow cards": {
+        "team1": "4",
+        "team2": "3"
+      },
+      "Shots on target": {
+        "team1": "4",
+        "team2": "1"
+      },
+      "Hit woodwork": {
+        "team1": "0",
+        "team2": "0"
+      },
+      "Shots off target": {
+        "team1": "6",
+        "team2": "1"
+      },
+      "Blocked shots": {
+        "team1": "4",
+        "team2": "0"
+      },
+      "Shots inside box": {
+        "team1": "6",
+        "team2": "2"
+      },
+      "Shots outside box": {
+        "team1": "8",
+        "team2": "0"
+      },
+      "Touches in penalty area": {
+        "team1": "17",
+        "team2": "4"
+      },
+      "Fouled in final third": {
+        "team1": "4",
+        "team2": "0"
+      },
+      "Offsides": {
+        "team1": "2",
+        "team2": "0"
+      },
+      "Accurate passes": {
+        "team1": "516",
+        "team2": "104"
+      },
+      "Throw-ins": {
+        "team1": "23",
+        "team2": "18"
+      },
+      "Final third phase": {
+        "team1": "158/195 (81%)",
+        "team2": "31/60 (52%)"
+      },
+      "Final third entries": {
+        "team1": "70",
+        "team2": "36"
+      },
+      "Dispossessed": {
+        "team1": "8",
+        "team2": "6"
+      },
+      "Total tackles": {
+        "team1": "11",
+        "team2": "15"
+      },
+      "Interceptions": {
+        "team1": "2",
+        "team2": "15"
+      },
+      "Recoveries": {
+        "team1": "27",
+        "team2": "23"
+      },
+      "Clearances": {
+        "team1": "8",
+        "team2": "26"
+      },
+      "Goal kicks": {
+        "team1": "2",
+        "team2": "10"
+      }
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/akhmat-grozny-fc-spartak-moscow/yWsGcc#id:12452989",
+    "matchTime": "77'",
+    "data": {
+      "Match time": "76:49"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/club-haro-deportivo-athletic-bilbao/zLjsyou#id:12671185",
+    "matchTime": "76'",
+    "data": {
+      "Match time": "76:23"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/fundacio-esportiva-grama-ue-cornella/mTqbsHwrc#id:12665807",
+    "matchTime": "78'",
+    "data": {
+      "Match time": "78:30"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/vitoria-sc-sc-beira-mar/WjbsAOE#id:12665549",
+    "matchTime": "73'",
+    "data": {
+      "Match time": "73:45"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/saudi-arabia-moldova/DqBbsMGnd#id:12665234",
+    "matchTime": "75'",
+    "data": {
+      "Match time": "75:58"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/akhmat-grozny-fc-spartak-moscow/yWsGcc#id:12452989",
+    "matchTime": "77'",
+    "data": {
+      "Match time": "77:42"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/club-haro-deportivo-athletic-bilbao/zLjsyou#id:12671185",
+    "matchTime": "76'",
+    "data": {
+      "Match time": "77:16"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/fundacio-esportiva-grama-ue-cornella/mTqbsHwrc#id:12665807",
+    "matchTime": "78'",
+    "data": {
+      "Match time": "79:26"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/vitoria-sc-sc-beira-mar/WjbsAOE#id:12665549",
+    "matchTime": "73'",
+    "data": {
+      "Match time": "74:41"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/saudi-arabia-moldova/DqBbsMGnd#id:12665234",
+    "matchTime": "75'",
+    "data": {
+      "Match time": "76:55"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/akhmat-grozny-fc-spartak-moscow/yWsGcc#id:12452989",
+    "matchTime": "77'",
+    "data": {
+      "Match time": "78:40"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/club-haro-deportivo-athletic-bilbao/zLjsyou#id:12671185",
+    "matchTime": "76'",
+    "data": {}
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/fundacio-esportiva-grama-ue-cornella/mTqbsHwrc#id:12665807",
+    "matchTime": "78'",
+    "data": {
+      "Match time": "80:26"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/vitoria-sc-sc-beira-mar/WjbsAOE#id:12665549",
+    "matchTime": "73'",
+    "data": {
+      "Match time": "75:37"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/saudi-arabia-moldova/DqBbsMGnd#id:12665234",
+    "matchTime": "75'",
+    "data": {}
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/ca-banfield-gimnasia-y-esgrima/cgHcsJnJd#id:12628737",
+    "matchTime": "72'",
+    "data": {
+      "Match time": "75:02"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/saudi-arabia-moldova/DqBbsMGnd#id:12665234",
+    "matchTime": "75'",
+    "data": {
+      "Match time": "78:11"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/ca-banfield-gimnasia-y-esgrima/cgHcsJnJd#id:12628737",
+    "matchTime": "72'",
+    "data": {}
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/ca-banfield-gimnasia-y-esgrima/cgHcsJnJd#id:12628737",
+    "matchTime": "72'",
+    "data": {}
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/sabah-fk-zire-fk/gtubsDghc#id:12586187",
+    "matchTime": "81'",
+    "data": {
+      "Match time": "84:12"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/sarmiento-de-leones-reserva-ca-central-de-bell-ville-reserva/ZOkeskPke#id:12487807",
+    "matchTime": "72'",
+    "data": {
+      "Match time": "71:36"
+    }
+  }
+]
